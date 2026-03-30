@@ -1,1 +1,163 @@
+[
+    {
+        "question": "Me compras para comer, pero nunca me comes. ¿Qué soy?",
+        "response": "El plato"
+    },
+    {
+        "question": "Cuanto más le quitas, más grande se vuelve. ¿Qué es?",
+        "response": "Un hoyo"
+    },
+    {
+        "question": "Vuelo sin alas, lloro sin ojos. ¿Qué soy?",
+        "response": "La nube"
+    },
+    {
+        "question": "Tengo ciudades, pero no casas. Tengo montañas, pero no árboles. Tengo agua, pero no peces. ¿Qué soy?",
+        "response": "Un mapa"
+    },
+    {
+        "question": "El que lo fabrica no lo necesita, el que lo compra no lo usa y el que lo usa no lo ve. ¿Qué es?",
+        "response": "Un ataúd"
+    },
+    {
+        "question": "Puedo ser joven o viejo, pero siempre tengo la misma edad que mis hermanos. ¿Qué soy?",
+        "response": "Un calendario"
+    },
+    {
+        "question": "Tengo cientos de piernas, pero no puedo caminar. ¿Qué soy?",
+        "response": "Una escoba"
+    },
+    {
+        "question": "Soy blanco como la nieve, pero si me caigo al agua me deshago. ¿Qué soy?",
+        "response": "La sal"
+    },
+    {
+        "question": "Siempre estoy en el suelo, pero nunca me ensucio. ¿Qué soy?",
+        "response": "La sombra"
+    },
+    {
+        "question": "Tengo dientes pero nunca muerdo. ¿Qué soy?",
+        "response": "Un peine"
+    },
+    {
+        "question": "Subo pero nunca bajo. ¿Qué soy?",
+        "response": "La edad"
+    },
+    {
+        "question": "Tengo un ojo pero no veo nada. ¿Qué soy?",
+        "response": "Una aguja"
+    },
+    {
+        "question": "Si me dejas caer, me rompo. Si me sonríes, te devuelvo la sonrisa. ¿Qué soy?",
+        "response": "Un espejo"
+    },
+    {
+        "question": "Tengo cuello pero no cabeza. ¿Qué soy?",
+        "response": "Una camisa"
+    },
+    {
+        "question": "Soy redonda como el mundo, pero no tengo tierra ni mar. ¿Qué soy?",
+        "response": "Una burbuja"
+    },
+    {
+        "question": "Cuanto más fuerte gritas, más fuerte respondo, pero nunca inicio la charla. ¿Qué soy?",
+        "response": "El eco"
+    },
+    {
+        "question": "Tengo teclas pero no piano, tengo ratón pero no animal. ¿Qué soy?",
+        "response": "Una computadora"
+    },
+    {
+        "question": "Si me tienes, quieres compartirme. Si me compartes, dejas de tenerme. ¿Qué soy?",
+        "response": "Un secreto"
+    },
+    {
+        "question": "Corro pero no tengo pies, tengo lecho pero no duermo. ¿Qué soy?",
+        "response": "Un río"
+    },
+    {
+        "question": "Me mojas mientras me secas. ¿Qué soy?",
+        "response": "La toalla"
+    },
+    {
+        "question": "Tengo ramas pero no soy árbol, tengo hojas pero no verdes. ¿Qué soy?",
+        "response": "Un libro"
+    },
+    {
+        "question": "Tengo 12 caras y muchos números, pero no sé contar. ¿Qué soy?",
+        "response": "Un reloj"
+    },
+    {
+        "question": "Me sigues todo el día, pero cuando se va el sol desaparezco. ¿Qué soy?",
+        "response": "La sombra"
+    },
+    {
+        "question": "Soy alto cuando soy joven y bajito cuando soy viejo. ¿Qué soy?",
+        "response": "Una vela"
+    },
+    {
+        "question": "Todos me usan para descansar, pero nadie se acuesta sobre mí. ¿Qué soy?",
+        "response": "El zapato"
+    },
+    {
+        "question": "Tengo agujeros arriba y abajo, a la izquierda y a la derecha, y aun así retengo el agua. ¿Qué soy?",
+        "response": "Una esponja"
+    },
+    {
+        "question": "No tengo vida, pero puedo morir. ¿Qué soy?",
+        "response": "Una batería"
+    },
+    {
+        "question": "Puedo ser corto o largo, pero nunca me puedes medir con una regla. ¿Qué soy?",
+        "response": "El tiempo"
+    },
+    {
+        "question": "Si me alimentas, vivo. Si me das de beber, muero. ¿Qué soy?",
+        "response": "El fuego"
+    },
+    {
+        "question": "Tengo boca pero no como, tengo cama pero no duermo. ¿Qué soy?",
+        "response": "Un río"
+    },
+    {
+        "question": "Cuanto más seco, más mojado estoy. ¿Qué soy?",
+        "response": "Un buzo"
+    },
+    {
+        "question": "Tengo manos pero no puedo tocar nada. ¿Qué soy?",
+        "response": "Un reloj"
+    },
+    {
+        "question": "Siempre llego, pero nunca estoy aquí hoy. ¿Qué soy?",
+        "response": "Mañana"
+    },
+    {
+        "question": "Soy el único que siempre dice la verdad, pero no tengo boca. ¿Qué soy?",
+        "response": "Un espejo"
+    },
+    {
+        "question": "Me cortan, pero nunca sangro. ¿Qué soy?",
+        "response": "El césped"
+    },
+    {
+        "question": "Tengo patas pero no puedo caminar. ¿Qué soy?",
+        "response": "Una mesa"
+    },
+    {
+        "question": "Soy invisible pero puedo ser sentido. ¿Qué soy?",
+        "response": "El viento"
+    },
+    {
+        "question": "Tengo cabeza pero no ojos, tengo pies pero no zapatos. ¿Qué soy?",
+        "response": "Una cama"
+    },
+    {
+        "question": "Aunque no tengo lengua, puedo hablarte de todo el mundo. ¿Qué soy?",
+        "response": "Un libro"
+    },
+    {
+        "question": "Me ves en el agua pero nunca me mojo. ¿Qué soy?",
+        "response": "Tu reflejo"
+    }
+]
 
