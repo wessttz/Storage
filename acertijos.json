@@ -158,6 +158,1297 @@
     {
         "question": "Me ves en el agua pero nunca me mojo. ¿Qué soy?",
         "response": "Tu reflejo"
+    },
+    {
+        "question": "Tiene agujas pero no cose, tiene números pero no cuenta. ¿Qué es?",
+        "response": "El reloj"
+    },
+    {
+        "question": "Una señorita muy aseñorada, que siempre va en coche y siempre va mojada. ¿Qué es?",
+        "response": "La lengua"
+    },
+    {
+        "question": "Me rompo al decir mi nombre. ¿Qué soy?",
+        "response": "El silencio"
+    },
+    {
+        "question": "Tiene cuello, pero no cabeza; tiene brazos, pero no manos. ¿Qué es?",
+        "response": "Una camisa"
+    },
+    {
+        "question": "Tengo ramas y hojas, pero no soy un árbol. Tengo un tronco, pero no soy una persona. ¿Qué soy?",
+        "response": "Una escoba"
+    },
+    {
+        "question": "¿Qué cosa tiene la orilla del mar y puede pasar por una serpiente?",
+        "response": "La letra 'R'"
+    },
+    {
+        "question": "No es más grande que una nuez, sube al monte y no tiene pies. ¿Qué es?",
+        "response": "El caracol"
+    },
+    {
+        "question": "De celda en celda voy pero presa no estoy. ¿Qué soy?",
+        "response": "Una abeja"
+    },
+    {
+        "question": "Tiene dientes y no come, tiene cabeza y no es hombre. ¿Qué es?",
+        "response": "El ajo"
+    },
+    {
+        "question": "Me abrigo con paños blancos, luzco blanca cabellera y por causa mía llora hasta la misma cocinera.",
+        "response": "La cebolla"
+    },
+    {
+        "question": "¿Cuántos meses tienen 28 días?",
+        "response": "Los 12"
+    },
+    {
+        "question": "Siempre en la comida pero nunca en la barriga. ¿Qué soy?",
+        "response": "El plato"
+    },
+    {
+        "question": "Si la dejamos se pasa, si la vendemos se pesa. ¿Qué es?",
+        "response": "La uva"
+    },
+    {
+        "question": "Tiene escamas y no es un pez, tiene corona y no es un rey.",
+        "response": "La piña"
+    },
+    {
+        "question": "En el cielo brinco y vuelo. Me encanta subir, flotar y lucir mi pelo.",
+        "response": "La cometa"
+    },
+    {
+        "question": "Todos me pisan a mí, pero yo no piso a nadie; todos preguntan por mí, yo no pregunto por nadie.",
+        "response": "Un camino"
+    },
+    {
+        "question": "Brazos con brazos, panza con panza, rascando en medio, surge la danza.",
+        "response": "La guitarra"
+    },
+    {
+        "question": "Se viste el cielo de luces en cascada de colores, para alegrar en la noche a los que están más tristones.",
+        "response": "Los fuegos artificiales"
+    },
+    {
+        "question": "Tengo llaves pero no cerradura. El blanco y el negro pasan por mi cintura.",
+        "response": "El kárate"
+    },
+    {
+        "question": "Corren más que los minutos, pero nunca llegan los primeros.",
+        "response": "Los segundos"
+    },
+    {
+        "question": "Soy bonito por delante y algo feo por detrás, me transformo a cada instante ya que imito a los demás.",
+        "response": "El espejo"
+    },
+    {
+        "question": "Soy ave y soy llana, pero no tengo pico ni alas. ¿Sabes quién soy?",
+        "response": "La avellana"
+    },
+    {
+        "question": "Está llegando, pero no llegará hoy.",
+        "response": "Mañana"
+    },
+    {
+        "question": "No muerde ni ladra, pero tiene dientes y la casa guarda.",
+        "response": "La llave"
+    },
+    {
+        "question": "Vengo y voy, voy y vengo dejando blanco lo que era negro.",
+        "response": "La goma de borrar"
+    },
+    {
+        "question": "Silva sin labios, corre sin pies, en la espalda te pega y no lo ves.",
+        "response": "El viento"
+    },
+    {
+        "question": "Dos abanicos que no paran en todo el día, pero cuando duermes se quedan quietos.",
+        "response": "Las pestañas"
+    },
+    {
+        "question": "Doce señoras, todas con medias y sin zapatos.",
+        "response": "Las horas"
+    },
+    {
+        "question": "¿Quién se desviste cuando hace frío?",
+        "response": "El árbol"
+    },
+    {
+        "question": "Entra solo si le giras la cabeza.",
+        "response": "El tornillo"
+    },
+    {
+        "question": "Todas las palabras sé y, aunque todas las explique, nunca las pronunciaré.",
+        "response": "El diccionario"
+    },
+    {
+        "question": "Te lo digo y te lo repito, y te lo puedo avisar, y por más que te lo diga no lo vas a adivinar.",
+        "response": "El té"
+    },
+    {
+        "question": "Entra seca y arrogante. Sale fofa y chorreante. ¿Qué es?",
+        "response": "La galleta"
+    },
+    {
+        "question": "Fui por él y nunca lo traje. ¿Qué es?",
+        "response": "El camino"
+    },
+    {
+        "question": "¿Dónde hay ríos pero no agua, ciudades pero no casas y bosques pero no árboles?",
+        "response": "En un mapa"
+    },
+    {
+        "question": "Una cajita blanca como la cal. Todos la saben abrir pero nadie cerrar. ¿Qué es?",
+        "response": "El huevo"
+    },
+    {
+        "question": "¿Qué hay entre playa y mar?",
+        "response": "La letra y"
+    },
+    {
+        "question": "Tengo ojos pero no veo, agua pero no bebo y barba pero no me afeito. ¿Quién soy?",
+        "response": "El coco"
+    },
+    {
+        "question": "Nazco sin tener padre y al morir nace mi madre. ¿Quién soy?",
+        "response": "La nieve"
+    },
+    {
+        "question": "¿Qué cosa es, que a su paso el hierro oxida, el acero se rompe y la carne se pudre?",
+        "response": "El tiempo"
+    },
+    {
+        "question": "¿Qué cosa es, que la hacen cantando, la compran llorando y la usan sin saber?",
+        "response": "El ataúd"
+    },
+    {
+        "question": "Entre pared y pared hay una flor colorada, llueva o no llueva siempre está mojada.",
+        "response": "La lengua"
+    },
+    {
+        "question": "Mi comadre, la asustada, pega un grito en la quebrada.",
+        "response": "La escopeta"
+    },
+    {
+        "question": "¿Quién es algo y nada a la vez?",
+        "response": "El pez"
+    },
+    {
+        "question": "Un platito de avellanas que de día se recogen y de noche se desparraman.",
+        "response": "Las estrellas"
+    },
+    {
+        "question": "¿Qué es eso que anda todo el día y nunca sale de su sitio?",
+        "response": "El reloj"
+    },
+    {
+        "question": "Alto, alto como un pino, pesa menos que un comino.",
+        "response": "El humo"
+    },
+    {
+        "question": "Es tul, pero no es tela; es pan, pero no se come. ¿Qué es?",
+        "response": "El tulipán"
+    },
+    {
+        "question": "María va, María viene, y en un punto se detiene.",
+        "response": "La puerta"
+    },
+    {
+        "question": "Existe una santa mujer que con un solo diente llama a la gente.",
+        "response": "La campana"
+    },
+    {
+        "question": "Si soy joven, joven quedo. Si soy viejo, viejo quedo. Tengo boca pero no hablo, tengo ojos pero no veo. ¿Qué soy?",
+        "response": "Un retrato"
+    },
+    {
+        "question": "Es del tamaño de una nuez, siempre sube la cuesta aunque no tenga pies. Sin salir de su casa, por todos los sitios pasa, y aunque siempre le dan col, nunca pone mala cara.",
+        "response": "El caracol"
+    },
+    {
+        "question": "¿Qué cosa es, que cuanto más grande se pone, menos todavía lo ves?",
+        "response": "La oscuridad"
+    },
+    {
+        "question": "Cien hermanitos en una sola tabla, si nadie los toca ninguno habla.",
+        "response": "El piano"
+    },
+    {
+        "question": "¿Qué hay entre el río y la arena?",
+        "response": "La letra Y"
+    },
+    {
+        "question": "Lana sube, lana baja. ¿Qué será?",
+        "response": "La navaja"
+    },
+    {
+        "question": "Sobre la mesa me ponen, me doblan, me usan, pero no me comen. ¿Qué soy?",
+        "response": "La servilleta"
+    },
+    {
+        "question": "Cuando nos atan salimos y cuando nos sueltan nos quedamos. ¿Quiénes somos?",
+        "response": "Los zapatos"
+    },
+    {
+        "question": "Bebo agua con los pies y respiro al revés, ¿qué soy?",
+        "response": "El árbol"
+    },
+    {
+        "question": "La madre de Rosa tenía cinco hijas: Lala, Lele, Lili, Lolo y ¿cómo se llamaba la última?",
+        "response": "Rosa"
+    },
+    {
+        "question": "El burro me lleva a cuestas, me meten en un baúl, yo no lo tengo pero sí lo tienes tú.",
+        "response": "La letra U"
+    },
+    {
+        "question": "Lo tienes tú, pero los demás lo usan.",
+        "response": "El nombre"
+    },
+    {
+        "question": "Desde el momento en que nací, corro de día, corro de noche, corro sin parar, hasta morir en el mar. ¿Quién soy?",
+        "response": "El río"
+    },
+    {
+        "question": "Soy pequeño como un botón, pero tengo energía como un campeón.",
+        "response": "La batería"
+    },
+    {
+        "question": "Me usas en verano, me apartas en invierno, y me gusta estar metido entre tus manos, ya sea cerrado o abierto. ¿Qué soy?",
+        "response": "Un abanico"
+    },
+    {
+        "question": "Sus raíces no se pueden ver y son más altas que un árbol. Arriba muy arriba sube; sin embargo, nunca crece.",
+        "response": "La montaña"
+    },
+    {
+        "question": "Treinta caballos de color blanco. En una sierra colorada, que cuando cabalgan machacan y trituran pero luego descansan.",
+        "response": "Los dientes"
+    },
+    {
+        "question": "No se puede ver ni se puede sentir, ocupa todos los espacios vacíos. No se puede oler ni se puede oír, está detrás de los astros. Y está al pie de las colinas, llega primero y se queda. Mata risas y acaba vidas.",
+        "response": "La oscuridad"
+    },
+    {
+        "question": "Puede devorar todas las cosas: plantas, bestias, flores y aves. Roe el hierro y muerde acero, mata reyes, arruina ciudades y puede derribar las altas montañas.",
+        "response": "El tiempo"
+    },
+    {
+        "question": "Todos pueden vivir sin aliento; y son fríos como los muertos. Nunca tienen sed y siempre beben. Todos tienen mallas. Siempre andan haciendo silencio.",
+        "response": "Los peces"
+    },
+    {
+        "question": "Mides mi vida en horas y yo te sirvo expirando. Soy rápido cuando estoy delgado y lento cuando estoy gordo. El viento es mi enemigo.",
+        "response": "Una vela"
+    },
+    {
+        "question": "Tengo la cabeza dura, me sostengo sobre un pie, y soy de tal fortaleza que a Dios mismo sujeté.",
+        "response": "El clavo"
+    },
+    {
+        "question": "Hablo sin boca y oigo sin oídos. No tengo cuerpo, pero cobro vida con el viento. ¿Qué soy?",
+        "response": "El eco"
+    },
+    {
+        "question": "Hago un ruido fuerte cuando me cambio. Cuando me cambio, me hago más grande pero peso menos. ¿Qué soy?",
+        "response": "Palomitas de maíz"
+    },
+    {
+        "question": "Blanca por dentro, verde por fuera. Si no sabes, espera.",
+        "response": "La pera"
+    },
+    {
+        "question": "Oro parece, plata no es. El que no lo adivine, ¡qué lento es!",
+        "response": "El plátano"
+    },
+    {
+        "question": "Guardada estoy en una estrecha cárcel rodeada de soldados de marfil y como una roja culebra me enrollo hasta que llegue mi fin. ¿Qué es?",
+        "response": "La lengua"
+    },
+    {
+        "question": "Nieto de su bisabuelo, padre de tus hermanos, de tus primos es el tío y de tus tíos, hermano. ¿Quién soy?",
+        "response": "El padre"
+    },
+    {
+        "question": "Bonita flor que gira buscando el sol. ¿Qué es?",
+        "response": "El girasol"
+    },
+    {
+        "question": "Alto vive y alto mora, en él se cree, pero no se adora.",
+        "response": "La torre de reloj"
+    },
+    {
+        "question": "Todo el mundo lo lleva, todo el mundo lo tiene, porque a todos les dan uno en cuanto al mundo vienen.",
+        "response": "El nombre"
+    },
+    {
+        "question": "En un auto iban dos madres y dos hijas, pero en el auto solo había tres pasajeras. ¿Cómo es esto posible?",
+        "response": "Una abuela, una madre y una hija"
+    },
+    {
+        "question": "Algunos meses tienen 31 días, otros solo 30. ¿Cuántos tienen 28 días?",
+        "response": "Todos"
+    },
+    {
+        "question": "¿Qué es algo que siempre cae, y nunca se rompe?",
+        "response": "Una cascada"
+    },
+    {
+        "question": "¿Cuántos animales caben dentro de una ballena?",
+        "response": "Ninguno porque va llena"
+    },
+    {
+        "question": "¿Cuál fue el último animal que creó Dios?",
+        "response": "El Delfín"
+    },
+    {
+        "question": "¿Un niño y un pato nacieron el mismo día. ¿Al cabo de un año cuál es mayor?",
+        "response": "El pato ya que tiene un año y pico"
+    },
+    {
+        "question": "¿Cuál es el animal que muerto no para de dar vueltas?",
+        "response": "El pollo asado"
+    },
+    {
+        "question": "¿Cuál es el animal de fantasía con más dientes?",
+        "response": "El Ratón Pérez"
+    },
+    {
+        "question": "Cae de la torre al suelo y no se mata. Cae de la torre al agua y se desbarata. ¿Qué es?",
+        "response": "El papel"
+    },
+    {
+        "question": "¿Qué se puede ver con los ojos cerrados?",
+        "response": "La oscuridad"
+    },
+    {
+        "question": "¿Dónde guarda un superhéroe su disfraz?",
+        "response": "En superchero"
+    },
+    {
+        "question": "¿Qué le pasa a una caja que va al gimnasio?",
+        "response": "Que se convierte en caja fuerte"
+    },
+    {
+        "question": "¿Por qué el libro de matemáticas se murió?",
+        "response": "Porque tenía muchos problemas"
+    },
+    {
+        "question": "Iba una vaca de lado, luego resultó pescado. ¿De qué se trata?",
+        "response": "Bacalado"
+    },
+    {
+        "question": "¿Qué harías si estás en una piscina ahogándote?",
+        "response": "Llorar para desahogarte"
+    },
+    {
+        "question": "¿Cuál es la única planta que no da ni flor, ni fruto ni hojas?",
+        "response": "La planta del pie"
+    },
+    {
+        "question": "Vas en un avión. Delante tienes un caballo y detrás un camión. ¿Dónde estás?",
+        "response": "En un tiovivo"
+    },
+    {
+        "question": "¿Qué es rojo pero huele a pintura azul?",
+        "response": "La pintura roja"
+    },
+    {
+        "question": "Si un gallo pone un huevo en lo alto de una montaña y el viento sopla de este a oeste, ¿hacia qué lado caerá el huevo?",
+        "response": "Hacia ninguno, los gallos no ponen huevos"
+    },
+    {
+        "question": "¿Cuál es el animal que tiene más dientes?",
+        "response": "El ratoncito Pérez"
+    },
+    {
+        "question": "Este banco está ocupado por un padre y un hijo. El padre se llama Juan y el hijo ya te lo he dicho.",
+        "response": "Esteban"
+    },
+    {
+        "question": "Te sirven para escribir, dibujar, señalar y sentir. ¿Qué son?",
+        "response": "Los dedos"
+    },
+    {
+        "question": "Tiene hojas y no es árbol, tiene piel y no es animal. ¿Qué es?",
+        "response": "Un libro"
+    },
+    {
+        "question": "Grande, muy grande, mayor que la Tierra. Arde y no se quema, quema y no es candela. ¿Qué es?",
+        "response": "El sol"
+    },
+    {
+        "question": "¿Quién es aquella que cuanto más se moja, más te seca?",
+        "response": "Una toalla"
+    },
+    {
+        "question": "Tengo agujeros pero retengo agua. ¿Qué soy?",
+        "response": "Una esponja"
+    },
+    {
+        "question": "Soy blanco por dentro y verde por fuera. ¿Qué soy?",
+        "response": "Una pera"
+    },
+    {
+        "question": "Tengo raíces que nadie ve, soy más alta que un árbol. ¿Qué soy?",
+        "response": "Una montaña"
+    },
+    {
+        "question": "Soy pequeño como una nuez, subo la montaña sin pies. ¿Qué soy?",
+        "response": "Un caracol"
+    },
+    {
+        "question": "Tengo dientes pero no como. ¿Qué soy?",
+        "response": "Un peine"
+    },
+    {
+        "question": "Tengo cabeza pero no tengo cuerpo. ¿Qué soy?",
+        "response": "Una moneda"
+    },
+    {
+        "question": "Soy redondo y vuelo sin alas. ¿Qué soy?",
+        "response": "Una pelota"
+    },
+    {
+        "question": "Tengo escamas pero no soy pez. ¿Qué soy?",
+        "response": "Una piña"
+    },
+    {
+        "question": "Soy amarillo por fuera, blanco por dentro y tengo corazón. ¿Qué soy?",
+        "response": "Un huevo"
+    },
+    {
+        "question": "Tengo hojas pero no soy árbol, tengo espinas pero no soy rosa. ¿Qué soy?",
+        "response": "Un libro"
+    },
+    {
+        "question": "Soy dulce, me como y tengo agujeros. ¿Qué soy?",
+        "response": "Una galleta"
+    },
+    {
+        "question": "Tengo cuatro patas pero no puedo caminar. ¿Qué soy?",
+        "response": "Una mesa"
+    },
+    {
+        "question": "Soy amarillo y me pones en el pan. ¿Qué soy?",
+        "response": "La mantequilla"
+    },
+    {
+        "question": "Tengo ojos pero no veo, tengo agua pero no bebo. ¿Qué soy?",
+        "response": "Un coco"
+    },
+    {
+        "question": "Soy blanco, me usan para escribir y me puedes borrar. ¿Qué soy?",
+        "response": "La tiza"
+    },
+    {
+        "question": "Tengo dos piernas pero no puedo caminar, tengo dos brazos pero no puedo abrazar. ¿Qué soy?",
+        "response": "Una silla"
+    },
+    {
+        "question": "Soy duro por fuera, blanco por dentro y tengo yema. ¿Qué soy?",
+        "response": "Un huevo"
+    },
+    {
+        "question": "Tengo lentejas pero no soy comida. ¿Qué soy?",
+        "response": "Un reloj"
+    },
+    {
+        "question": "Soy plano, tengo esquinas pero no soy cuadrado. ¿Qué soy?",
+        "response": "Un círculo"
+    },
+    {
+        "question": "Tengo agujas pero no coso, tengo números pero no cuento. ¿Qué soy?",
+        "response": "Un reloj"
+    },
+    {
+        "question": "Soy frío, dulce y me como en verano. ¿Qué soy?",
+        "response": "Un helado"
+    },
+    {
+        "question": "Tengo orejas pero no escucho, tengo hojas pero no soy árbol. ¿Qué soy?",
+        "response": "Un libro"
+    },
+    {
+        "question": "Soy amarillo por fuera, blanco por dentro y me rompo fácil. ¿Qué soy?",
+        "response": "Un huevo"
+    },
+    {
+        "question": "Tengo puertas pero no soy casa, tengo llaves pero no soy coche. ¿Qué soy?",
+        "response": "Un piano"
+    },
+    {
+        "question": "Soy redondo, me lanzan y caigo de pie. ¿Qué soy?",
+        "response": "Un gato"
+    },
+    {
+        "question": "Tengo cara pero no soy persona, tengo manos pero no soy humano. ¿Qué soy?",
+        "response": "Un reloj"
+    },
+    {
+        "question": "Soy blanco, me usan para limpiar y me deshago en el agua. ¿Qué soy?",
+        "response": "El azúcar"
+    },
+    {
+        "question": "Tengo alas pero no vuelo, tengo ojos pero no veo. ¿Qué soy?",
+        "response": "Una mariposa de papel"
+    },
+    {
+        "question": "Soy caliente, me tomas en la mañana y me dejas en la mesa. ¿Qué soy?",
+        "response": "Una taza de café"
+    },
+    {
+        "question": "Tengo cuerdas pero no soy guitarra, tengo teclas pero no soy piano. ¿Qué soy?",
+        "response": "Una computadora"
+    },
+    {
+        "question": "Soy redondo, salto pero no tengo piernas. ¿Qué soy?",
+        "response": "Una pelota"
+    },
+    {
+        "question": "Tengo agua pero no soy río, tengo vida pero no respiro. ¿Qué soy?",
+        "response": "Una pecera"
+    },
+    {
+        "question": "Soy duro, me usan para construir y vengo de la montaña. ¿Qué soy?",
+        "response": "Una piedra"
+    },
+    {
+        "question": "Tengo luz pero no soy lámpara, tengo papel pero no soy libro. ¿Qué soy?",
+        "response": "Una linterna"
+    },
+    {
+        "question": "Soy suave, me usan para dormir y tengo plumas. ¿Qué soy?",
+        "response": "Una almohada"
+    },
+    {
+        "question": "Tengo números pero no soy matemático, tengo manos pero no soy persona. ¿Qué soy?",
+        "response": "Un reloj"
+    },
+    {
+        "question": "Soy caliente, me soplas y desaparezco. ¿Qué soy?",
+        "response": "Una vela"
+    },
+    {
+        "question": "Tengo boca pero no hablo, tengo agua pero no bebo. ¿Qué soy?",
+        "response": "Un río"
+    },
+    {
+        "question": "Soy amarillo, me pelas y me comes. ¿Qué soy?",
+        "response": "Un plátano"
+    },
+    {
+        "question": "Tengo hojas pero no soy árbol, tengo tinta pero no soy pulpo. ¿Qué soy?",
+        "response": "Un libro"
+    },
+    {
+        "question": "Soy frío, me guardan en el congelador y me como con cuchara. ¿Qué soy?",
+        "response": "El helado"
+    },
+    {
+        "question": "Tengo ojos pero no veo, tengo agujas pero no coso. ¿Qué soy?",
+        "response": "Una papa"
+    },
+    {
+        "question": "Soy redondo, tengo agujeros y me usan para hacer música. ¿Qué soy?",
+        "response": "Un disco"
+    },
+    {
+        "question": "Tengo patas pero no camino, tengo respaldo pero no soy silla. ¿Qué soy?",
+        "response": "Una cama"
+    },
+    {
+        "question": "Soy blanco, me usan para cocinar y me sacan de un animal. ¿Qué soy?",
+        "response": "La leche"
+    },
+    {
+        "question": "Tengo espinas pero no soy rosa, tengo hojas pero no soy árbol. ¿Qué soy?",
+        "response": "Un cactus"
+    },
+    {
+        "question": "Soy dulce, me pones en el té y vengo de las abejas. ¿Qué soy?",
+        "response": "La miel"
+    },
+    {
+        "question": "Tengo ruedas pero no soy coche, tengo asientos pero no soy teatro. ¿Qué soy?",
+        "response": "Un autobús"
+    },
+    {
+        "question": "Soy caliente, me echas en la comida y pica. ¿Qué soy?",
+        "response": "El chile"
+    },
+    {
+        "question": "Tengo cuerdas pero no soy violín, tengo arco pero no soy flecha. ¿Qué soy?",
+        "response": "Un arcoíris"
+    },
+    {
+        "question": "Soy redondo, me cortan en rebanadas y me ponen en la pizza. ¿Qué soy?",
+        "response": "El pepperoni"
+    },
+    {
+        "question": "Tengo puertas pero no entras, tengo ventanas pero no ves. ¿Qué soy?",
+        "response": "Una caja"
+    },
+    {
+        "question": "Soy blanco, me usan para curar y me encuentras en el botiquín. ¿Qué soy?",
+        "response": "La aspirina"
+    },
+    {
+        "question": "Tengo alambre pero no soy cerca, tengo luz pero no soy sol. ¿Qué soy?",
+        "response": "Una bombilla"
+    },
+    {
+        "question": "Soy amarillo, me usan para dibujar y me sacan del lápiz. ¿Qué soy?",
+        "response": "La punta del lápiz"
+    },
+    {
+        "question": "Tengo agua pero no soy río, tengo peces pero no soy mar. ¿Qué soy?",
+        "response": "Un acuario"
+    },
+    {
+        "question": "Soy duro, me usan para afilar y tengo filo. ¿Qué soy?",
+        "response": "Un cuchillo"
+    },
+    {
+        "question": "Tengo hojas pero no soy árbol, tengo raíces pero no soy planta. ¿Qué soy?",
+        "response": "Un libro"
+    },
+    {
+        "question": "Soy frío, me sacan de la nevera y me beben en verano. ¿Qué soy?",
+        "response": "Un refresco"
+    },
+    {
+        "question": "Tengo botones pero no soy camisa, tengo pantalla pero no soy cine. ¿Qué soy?",
+        "response": "Un teléfono"
+    },
+    {
+        "question": "Soy dulce, me usan para hornear y vengo de la caña. ¿Qué soy?",
+        "response": "El azúcar"
+    },
+    {
+        "question": "Tengo ruedas pero no soy bicicleta, tengo motor pero no soy coche. ¿Qué soy?",
+        "response": "Una motocicleta"
+    },
+    {
+        "question": "Soy caliente, me usan para planchar y tengo suela. ¿Qué soy?",
+        "response": "Una plancha"
+    },
+    {
+        "question": "Tengo boca pero no hablo, tengo cuello pero no soy persona. ¿Qué soy?",
+        "response": "Una botella"
+    },
+    {
+        "question": "Soy amarillo, me usan para limpiar y hago espuma. ¿Qué soy?",
+        "response": "El jabón"
+    },
+    {
+        "question": "Tengo agujeros pero retengo agua, tengo esponja pero no soy mar. ¿Qué soy?",
+        "response": "Una esponja de cocina"
+    },
+    {
+        "question": "Soy blanco, me usan para escribir y me encuentras en el escritorio. ¿Qué soy?",
+        "response": "El papel"
+    },
+    {
+        "question": "Tengo patas pero no camino, tengo colchón pero no soy cama. ¿Qué soy?",
+        "response": "Un sofá"
+    },
+    {
+        "question": "Soy dulce, me usan para untar y vengo de las uvas. ¿Qué soy?",
+        "response": "La mermelada"
+    },
+    {
+        "question": "Tengo cuerdas pero no soy guitarra, tengo palos pero no soy árbol. ¿Qué soy?",
+        "response": "Una escoba"
+    },
+    {
+        "question": "Soy caliente, me usan para cocinar y tengo sartén. ¿Qué soy?",
+        "response": "El aceite"
+    },
+    {
+        "question": "Tengo ojos pero no veo, tengo nariz pero no huelo. ¿Qué soy?",
+        "response": "Una cara de papa"
+    },
+    {
+        "question": "Soy redondo, me usan para jugar y reboto. ¿Qué soy?",
+        "response": "Un balón"
+    },
+    {
+        "question": "Tengo agua pero no soy río, tengo hielo pero no soy glaciar. ¿Qué soy?",
+        "response": "Un vaso con hielo"
+    },
+    {
+        "question": "Soy duro, me usan para construir y soy gris. ¿Qué soy?",
+        "response": "El cemento"
+    },
+    {
+        "question": "Tengo luz pero no soy sol, tengo calor pero no soy fuego. ¿Qué soy?",
+        "response": "Una estufa"
+    },
+    {
+        "question": "Soy suave, me usan para limpiar y vengo de una oveja. ¿Qué soy?",
+        "response": "La lana"
+    },
+    {
+        "question": "Tengo números pero no soy teléfono, tengo teclas pero no soy piano. ¿Qué soy?",
+        "response": "Una calculadora"
+    },
+    {
+        "question": "Soy caliente, me usan para cocinar y tengo olla. ¿Qué soy?",
+        "response": "La sopa"
+    },
+    {
+        "question": "Tengo boca pero no hablo, tengo tapa pero no soy olla. ¿Qué soy?",
+        "response": "Una caja"
+    },
+    {
+        "question": "Soy amarillo, me usan para iluminar y tengo filamento. ¿Qué soy?",
+        "response": "Una bombilla"
+    },
+    {
+        "question": "Tengo ruedas pero no soy coche, tengo manubrio pero no soy bicicleta. ¿Qué soy?",
+        "response": "Un triciclo"
+    },
+    {
+        "question": "Soy dulce, me usan para decorar y tengo crema. ¿Qué soy?",
+        "response": "El pastel"
+    },
+    {
+        "question": "Tengo agujas pero no coso, tengo disco pero no soy CD. ¿Qué soy?",
+        "response": "Un tocadiscos"
+    },
+    {
+        "question": "Soy blanco, me usan para curar y me encuentras en la farmacia. ¿Qué soy?",
+        "response": "La medicina"
+    },
+    {
+        "question": "Tengo cuerdas pero no soy guitarra, tengo red pero no soy pescador. ¿Qué soy?",
+        "response": "Una hamaca"
+    },
+    {
+        "question": "Soy caliente, me usan para calentar agua y tengo resistencia. ¿Qué soy?",
+        "response": "Una caldera"
+    },
+    {
+        "question": "Tengo ojos pero no veo, tengo orejas pero no escucho. ¿Qué soy?",
+        "response": "Una muñeca"
+    },
+    {
+        "question": "Soy redondo, me usan para comer y tengo tenedor. ¿Qué soy?",
+        "response": "Un plato"
+    },
+    {
+        "question": "Tengo agua pero no soy río, tengo jabón pero no soy baño. ¿Qué soy?",
+        "response": "Un lavamanos"
+    },
+    {
+        "question": "Soy duro, me usan para cortar y tengo filo. ¿Qué soy?",
+        "response": "Una sierra"
+    },
+    {
+        "question": "Tengo hojas pero no soy árbol, tengo tinta pero no soy pulpo. ¿Qué soy?",
+        "response": "Un periódico"
+    },
+    {
+        "question": "Soy frío, me usan para refrescar y tengo hielo. ¿Qué soy?",
+        "response": "Una nevera"
+    },
+    {
+        "question": "Tengo botones pero no soy camisa, tengo agujas pero no soy reloj. ¿Qué soy?",
+        "response": "Una máquina de coser"
+    },
+    {
+        "question": "Soy dulce, me usan para endulzar y vengo de las flores. ¿Qué soy?",
+        "response": "La miel"
+    },
+    {
+        "question": "Tengo ruedas pero no soy coche, tengo ala pero no soy pájaro. ¿Qué soy?",
+        "response": "Un avión"
+    },
+    {
+        "question": "Soy caliente, me usan para cocinar y tengo parrilla. ¿Qué soy?",
+        "response": "La barbacoa"
+    },
+    {
+        "question": "Tengo boca pero no hablo, tengo pie pero no camino. ¿Qué soy?",
+        "response": "Una taza"
+    },
+    {
+        "question": "Soy amarillo, me usan para pintar y tengo pincel. ¿Qué soy?",
+        "response": "La pintura"
+    },
+    {
+        "question": "Tengo agujeros pero retengo agua, tengo cerdas pero no soy cepillo. ¿Qué soy?",
+        "response": "Una esponja"
+    },
+    {
+        "question": "Soy blanco, me usan para escribir y tengo goma. ¿Qué soy?",
+        "response": "El lápiz"
+    },
+    {
+        "question": "Tengo patas pero no camino, tengo respaldo pero no soy silla. ¿Qué soy?",
+        "response": "Un sillón"
+    },
+    {
+        "question": "Soy dulce, me usan para untar y vengo de las naranjas. ¿Qué soy?",
+        "response": "La mermelada de naranja"
+    },
+    {
+        "question": "Tengo cuerdas pero no soy guitarra, tengo arco pero no soy violín. ¿Qué soy?",
+        "response": "Un arco y flecha"
+    },
+    {
+        "question": "Soy caliente, me usan para cocinar y tengo wok. ¿Qué soy?",
+        "response": "El arroz frito"
+    },
+    {
+        "question": "Tengo ojos pero no veo, tengo boca pero no hablo. ¿Qué soy?",
+        "response": "Un pez de juguete"
+    },
+    {
+        "question": "Soy redondo, me usan para jugar y tengo agujeros. ¿Qué soy?",
+        "response": "Una canasta"
+    },
+    {
+        "question": "Tengo agua pero no soy río, tengo peces pero no soy océano. ¿Qué soy?",
+        "response": "Un estanque"
+    },
+    {
+        "question": "Soy duro, me usan para construir y soy marrón. ¿Qué soy?",
+        "response": "El ladrillo"
+    },
+    {
+        "question": "Tengo luz pero no soy lámpara, tengo calor pero no soy sol. ¿Qué soy?",
+        "response": "Una vela"
+    },
+    {
+        "question": "Soy suave, me usan para dormir y tengo plumón. ¿Qué soy?",
+        "response": "Un edredón"
+    },
+    {
+        "question": "Tengo números pero no soy matemático, tengo manecillas pero no soy reloj. ¿Qué soy?",
+        "response": "Un termómetro"
+    },
+    {
+        "question": "Soy caliente, me soplas y me apagas. ¿Qué soy?",
+        "response": "Una vela"
+    },
+    {
+        "question": "Tengo boca pero no hablo, tengo asa pero no soy taza. ¿Qué soy?",
+        "response": "Una olla"
+    },
+    {
+        "question": "Soy amarillo, me usan para limpiar pisos y hago espuma. ¿Qué soy?",
+        "response": "El detergente"
+    },
+    {
+        "question": "Tengo agujeros pero retengo agua, tengo esponja pero no soy animal. ¿Qué soy?",
+        "response": "Una esponja marina"
+    },
+    {
+        "question": "Soy blanco, me usan para curar y me encuentras en el botiquín. ¿Qué soy?",
+        "response": "La venda"
+    },
+    {
+        "question": "Tengo patas pero no camino, tengo colchón pero no soy cama. ¿Qué soy?",
+        "response": "Un colchón"
+    },
+    {
+        "question": "Soy dulce, me usan para hornear y tengo chocolate. ¿Qué soy?",
+        "response": "La galleta de chocolate"
+    },
+    {
+        "question": "Tengo cuerdas pero no soy guitarra, tengo palos pero no soy escoba. ¿Qué soy?",
+        "response": "Un tambor"
+    },
+    {
+        "question": "Soy caliente, me usan para cocinar y tengo sartén antiadherente. ¿Qué soy?",
+        "response": "El aceite de oliva"
+    },
+    {
+        "question": "Tengo ojos pero no veo, tengo nariz pero no huelo. ¿Qué soy?",
+        "response": "Una cara de calabaza"
+    },
+    {
+        "question": "Soy redondo, me usan para jugar y reboto alto. ¿Qué soy?",
+        "response": "Una pelota de baloncesto"
+    },
+    {
+        "question": "Tengo agua pero no soy río, tengo hielo pero no soy polo. ¿Qué soy?",
+        "response": "Un cubo de hielo"
+    },
+    {
+        "question": "Soy duro, me usan para construir y soy blanco. ¿Qué soy?",
+        "response": "El yeso"
+    },
+    {
+        "question": "Tengo luz pero no soy lámpara, tengo calor pero no soy fuego. ¿Qué soy?",
+        "response": "Un radiador"
+    },
+    {
+        "question": "Soy suave, me usan para limpiar y vengo de una planta. ¿Qué soy?",
+        "response": "El algodón"
+    },
+    {
+        "question": "Tengo números pero no soy teléfono, tengo pantalla pero no soy televisor. ¿Qué soy?",
+        "response": "Un reloj digital"
+    },
+    {
+        "question": "Soy caliente, me usan para cocinar y tengo olla a presión. ¿Qué soy?",
+        "response": "El guiso"
+    },
+    {
+        "question": "Tengo boca pero no hablo, tengo tapa pero no soy botella. ¿Qué soy?",
+        "response": "Un frasco"
+    },
+    {
+        "question": "Soy amarillo, me usan para iluminar y tengo LED. ¿Qué soy?",
+        "response": "Una lámpara LED"
+    },
+    {
+        "question": "Tengo ruedas pero no soy coche, tengo motor pero no soy moto. ¿Qué soy?",
+        "response": "Un coche eléctrico"
+    },
+    {
+        "question": "Soy dulce, me usan para decorar y tengo fondant. ¿Qué soy?",
+        "response": "El pastel de bodas"
+    },
+    {
+        "question": "Tengo agujas pero no coso, tengo brazo pero no soy persona. ¿Qué soy?",
+        "response": "Un tocadiscos"
+    },
+    {
+        "question": "Soy blanco, me usan para curar y me encuentras en el hospital. ¿Qué soy?",
+        "response": "La gasa"
+    },
+    {
+        "question": "Tengo cuerdas pero no soy guitarra, tengo red pero no soy tenis. ¿Qué soy?",
+        "response": "Una red de pesca"
+    },
+    {
+        "question": "Soy caliente, me usan para calentar la casa y tengo chimenea. ¿Qué soy?",
+        "response": "La chimenea"
+    },
+    {
+        "question": "Tengo ojos pero no veo, tengo orejas pero no escucho. ¿Qué soy?",
+        "response": "Una estatua"
+    },
+    {
+        "question": "Soy redondo, me usan para comer y tengo cuchillo. ¿Qué soy?",
+        "response": "Un plato de sopa"
+    },
+    {
+        "question": "Tengo agua pero no soy río, tengo jabón pero no soy pastilla. ¿Qué soy?",
+        "response": "Un jabón líquido"
+    },
+    {
+        "question": "Soy duro, me usan para cortar madera y tengo filo. ¿Qué soy?",
+        "response": "Un hacha"
+    },
+    {
+        "question": "Tengo hojas pero no soy árbol, tengo tinta pero no soy tintero. ¿Qué soy?",
+        "response": "Una impresora"
+    },
+    {
+        "question": "Soy frío, me usan para refrescar y tengo compresor. ¿Qué soy?",
+        "response": "Un aire acondicionado"
+    },
+    {
+        "question": "Tengo botones pero no soy camisa, tengo agujas pero no soy reloj de pared. ¿Qué soy?",
+        "response": "Una máquina de tejer"
+    },
+    {
+        "question": "Soy dulce, me usan para endulzar y vengo de las remolachas. ¿Qué soy?",
+        "response": "El azúcar moreno"
+    },
+    {
+        "question": "Tengo ruedas pero no soy coche, tengo ala pero no soy aeropuerto. ¿Qué soy?",
+        "response": "Un avión de papel"
+    },
+    {
+        "question": "Soy caliente, me usan para cocinar y tengo parrilla eléctrica. ¿Qué soy?",
+        "response": "La plancha de asar"
+    },
+    {
+        "question": "Tengo boca pero no hablo, tengo pie pero no soy zapato. ¿Qué soy?",
+        "response": "Un jarrón"
+    },
+    {
+        "question": "Soy amarillo, me usan para pintar y tengo rodillo. ¿Qué soy?",
+        "response": "La pintura de pared"
+    },
+    {
+        "question": "Tengo agujeros pero retengo agua, tengo cerdas pero no soy cepillo de dientes. ¿Qué soy?",
+        "response": "Una esponja de baño"
+    },
+    {
+        "question": "Soy blanco, me usan para escribir y tengo tinta líquida. ¿Qué soy?",
+        "response": "El bolígrafo"
+    },
+    {
+        "question": "Tengo patas pero no camino, tengo respaldo pero no soy sofá. ¿Qué soy?",
+        "response": "Una butaca"
+    },
+    {
+        "question": "Soy dulce, me usan para untar y vengo de las fresas. ¿Qué soy?",
+        "response": "La mermelada de fresa"
+    },
+    {
+        "question": "Tengo cuerdas pero no soy guitarra, tengo arco pero no soy arcoíris. ¿Qué soy?",
+        "response": "Un arco de violín"
+    },
+    {
+        "question": "Soy caliente, me usan para cocinar y tengo wok de hierro. ¿Qué soy?",
+        "response": "El salteado"
+    },
+    {
+        "question": "Tengo ojos pero no veo, tengo boca pero no hablo. ¿Qué soy?",
+        "response": "Una botella de ketchup"
+    },
+    {
+        "question": "Soy redondo, me usan para jugar y tengo red. ¿Qué soy?",
+        "response": "Una red de tenis"
+    },
+    {
+        "question": "Tengo agua pero no soy río, tengo peces pero no soy acuario. ¿Qué soy?",
+        "response": "Un lago"
+    },
+    {
+        "question": "Soy duro, me usan para construir y soy rojo. ¿Qué soy?",
+        "response": "El ladrillo de arcilla"
+    },
+    {
+        "question": "Tengo luz pero no soy lámpara, tengo calor pero no soy estufa. ¿Qué soy?",
+        "response": "Una chimenea eléctrica"
+    },
+    {
+        "question": "Soy suave, me usan para dormir y tengo plumas de ganso. ¿Qué soy?",
+        "response": "Un edredón de plumas"
+    },
+    {
+        "question": "Tengo números pero no soy matemático, tengo manecillas pero no soy reloj de pulsera. ¿Qué soy?",
+        "response": "Un barómetro"
+    },
+    {
+        "question": "Soy caliente, me soplas y te quemas. ¿Qué soy?",
+        "response": "El fuego"
+    },
+    {
+        "question": "Tengo boca pero no hablo, tengo asa pero no soy jarra. ¿Qué soy?",
+        "response": "Una tetera"
+    },
+    {
+        "question": "Soy amarillo, me usan para limpiar cristales y hago espuma. ¿Qué soy?",
+        "response": "El limpiacristales"
+    },
+    {
+        "question": "Tengo agujeros pero retengo agua, tengo esponja pero no soy esponja de mar. ¿Qué soy?",
+        "response": "Una esponja sintética"
+    },
+    {
+        "question": "Soy blanco, me usan para curar y me encuentras en la farmacia. ¿Qué soy?",
+        "response": "El jarabe"
+    },
+    {
+        "question": "Tengo patas pero no camino, tengo colchón pero no soy colchón. ¿Qué soy?",
+        "response": "Una cama de agua"
+    },
+    {
+        "question": "Soy dulce, me usan para hornear y tengo vainilla. ¿Qué soy?",
+        "response": "La galleta de vainilla"
+    },
+    {
+        "question": "Tengo cuerdas pero no soy guitarra, tengo palos pero no soy tambor. ¿Qué soy?",
+        "response": "Un xilófono"
+    },
+    {
+        "question": "Soy caliente, me usan para cocinar y tengo sartén de hierro. ¿Qué soy?",
+        "response": "El filete"
+    },
+    {
+        "question": "Tengo ojos pero no veo, tengo nariz pero no huelo. ¿Qué soy?",
+        "response": "Una cara de muñeco de nieve"
+    },
+    {
+        "question": "Soy redondo, me usan para jugar y reboto en el suelo. ¿Qué soy?",
+        "response": "Una pelota de fútbol"
+    },
+    {
+        "question": "Tengo agua pero no soy río, tengo hielo pero no soy nevera. ¿Qué soy?",
+        "response": "Un vaso con agua fría"
+    },
+    {
+        "question": "Soy duro, me usan para construir y soy negro. ¿Qué soy?",
+        "response": "El carbón"
+    },
+    {
+        "question": "Tengo luz pero no soy lámpara, tengo calor pero no soy radiador. ¿Qué soy?",
+        "response": "Una estufa de gas"
+    },
+    {
+        "question": "Soy suave, me usan para limpiar y vengo de un árbol. ¿Qué soy?",
+        "response": "La esponja vegetal"
+    },
+    {
+        "question": "Tengo números pero no soy teléfono, tengo pantalla pero no soy ordenador. ¿Qué soy?",
+        "response": "Una tablet"
+    },
+    {
+        "question": "Soy caliente, me usan para cocinar y tengo olla de barro. ¿Qué soy?",
+        "response": "El cocido"
+    },
+    {
+        "question": "Tengo boca pero no hablo, tengo tapa pero no soy olla. ¿Qué soy?",
+        "response": "Un bote"
+    },
+    {
+        "question": "Soy amarillo, me usan para iluminar y tengo pantalla. ¿Qué soy?",
+        "response": "Una lámpara de pie"
+    },
+    {
+        "question": "Tengo ruedas pero no soy coche, tengo manubrio pero no soy bici. ¿Qué soy?",
+        "response": "Un monociclo"
+    },
+    {
+        "question": "Soy dulce, me usan para decorar y tengo glaseado. ¿Qué soy?",
+        "response": "El cupcake"
+    },
+    {
+        "question": "Tengo agujas pero no coso, tengo disco pero no soy DVD. ¿Qué soy?",
+        "response": "Un gramófono"
+    },
+    {
+        "question": "Soy blanco, me usan para curar y me encuentras en el consultorio. ¿Qué soy?",
+        "response": "La inyección"
+    },
+    {
+        "question": "Tengo cuerdas pero no soy guitarra, tengo red pero no soy hamaca. ¿Qué soy?",
+        "response": "Una red de baloncesto"
+    },
+    {
+        "question": "Soy caliente, me usan para calentar agua y tengo calentador. ¿Qué soy?",
+        "response": "El termo"
+    },
+    {
+        "question": "Tengo ojos pero no veo, tengo orejas pero no escucho. ¿Qué soy?",
+        "response": "Una máscara"
+    },
+    {
+        "question": "Soy redondo, me usan para comer y tengo cuchara. ¿Qué soy?",
+        "response": "Un plato de arroz"
+    },
+    {
+        "question": "Tengo agua pero no soy río, tengo jabón pero no soy champú. ¿Qué soy?",
+        "response": "Un jabón de manos"
+    },
+    {
+        "question": "Soy duro, me usan para cortar metal y tengo filo. ¿Qué soy?",
+        "response": "Una sierra de metal"
+    },
+    {
+        "question": "Tengo hojas pero no soy árbol, tengo tinta pero no soy impresora. ¿Qué soy?",
+        "response": "Una fotocopiadora"
+    },
+    {
+        "question": "Soy frío, me usan para refrescar y tengo ventilador. ¿Qué soy?",
+        "response": "Un ventilador"
+    },
+    {
+        "question": "Tengo botones pero no soy camisa, tengo agujas pero no soy reloj de bolsillo. ¿Qué soy?",
+        "response": "Una máquina de bordar"
+    },
+    {
+        "question": "Soy dulce, me usan para endulzar y vengo de las palmas. ¿Qué soy?",
+        "response": "El azúcar de coco"
+    },
+    {
+        "question": "Tengo ruedas pero no soy coche, tengo ala pero no soy hangar. ¿Qué soy?",
+        "response": "Una cometa"
+    },
+    {
+        "question": "Soy caliente, me usan para cocinar y tengo parrilla de gas. ¿Qué soy?",
+        "response": "La hamburguesa"
+    },
+    {
+        "question": "Tengo boca pero no hablo, tengo pie pero no soy jarrón. ¿Qué soy?",
+        "response": "Un florero"
+    },
+    {
+        "question": "Soy amarillo, me usan para pintar y tengo brocha. ¿Qué soy?",
+        "response": "La pintura acrílica"
+    },
+    {
+        "question": "Tengo agujeros pero retengo agua, tengo cerdas pero no soy cepillo de pelo. ¿Qué soy?",
+        "response": "Una esponja de maquillaje"
+    },
+    {
+        "question": "Soy blanco, me usan para escribir y tengo pluma. ¿Qué soy?",
+        "response": "La pluma estilográfica"
+    },
+    {
+        "question": "Tengo patas pero no camino, tengo respaldo pero no soy butaca. ¿Qué soy?",
+        "response": "Un diván"
+    },
+    {
+        "question": "Soy dulce, me usan para untar y vengo de las moras. ¿Qué soy?",
+        "response": "La mermelada de mora"
+    },
+    {
+        "question": "Tengo cuerdas pero no soy guitarra, tengo palos pero no soy xilófono. ¿Qué soy?",
+        "response": "Una marimba"
+    },
+    {
+        "question": "Soy caliente, me usan para cocinar y tengo sartén de cobre. ¿Qué soy?",
+        "response": "El caramelo"
+    },
+    {
+        "question": "Tengo ojos pero no veo, tengo nariz pero no huelo. ¿Qué soy?",
+        "response": "Una cara de payaso"
+    },
+    {
+        "question": "Soy redondo, me usan para jugar y tengo aros. ¿Qué soy?",
+        "response": "Una canasta de baloncesto"
+    },
+    {
+        "question": "Tengo agua pero no soy río, tengo peces pero no soy río. ¿Qué soy?",
+        "response": "Un río subterráneo"
+    },
+    {
+        "question": "Soy duro, me usan para construir y soy gris oscuro. ¿Qué soy?",
+        "response": "El granito"
+    },
+    {
+        "question": "Tengo luz pero no soy lámpara, tengo calor pero no soy horno. ¿Qué soy?",
+        "response": "Un microondas"
+    },
+    {
+        "question": "Soy suave, me usan para dormir y tengo plumas de pato. ¿Qué soy?",
+        "response": "Un almohadón"
+    },
+    {
+        "question": "Tengo números pero no soy matemático, tengo manecillas pero no soy reloj de arena. ¿Qué soy?",
+        "response": "Un higrómetro"
+    },
+    {
+        "question": "Soy caliente, me soplas y creces. ¿Qué soy?",
+        "response": "El fuego del campamento"
+    },
+    {
+        "question": "Tengo boca pero no hablo, tengo asa pero no soy tetera. ¿Qué soy?",
+        "response": "Una cafetera"
+    },
+    {
+        "question": "Soy amarillo, me usan para limpiar muebles y hago brillo. ¿Qué soy?",
+        "response": "El pulimento"
+    },
+    {
+        "question": "Tengo agujeros pero retengo agua, tengo esponja pero no soy esponja natural. ¿Qué soy?",
+        "response": "Una esponja de celulosa"
+    },
+    {
+        "question": "Soy blanco, me usan para curar y me encuentras en la enfermería. ¿Qué soy?",
+        "response": "Una venda"
     }
 ]
-
