@@ -1,0 +1,68 @@
+{
+  "animales": [
+    "elefante", "jirafa", "cocodrilo", "mariposa", "pingüino", "murciélago", 
+    "armadillo", "rinoceronte", "camaleón", "delfín", "hipopótamo", "orangután", 
+    "avestruz", "koala", "perezoso", "tortuga", "flamenco", "jaguar", "ñandú", 
+    "quetzal", "axolotl", "tarántula"
+  ],
+  "paises": [
+    "argentina", "guatemala", "colombia", "venezuela", "nicaragua", "mozambique",
+    "kazajistán", "azerbaiyán", "zimbabue", "madagascar", "bolivia", "ecuador",
+    "paraguay", "uruguay", "tailandia", "malasia", "mongolia", "kirguistán", 
+    "uzbekistán", "liechtenstein", "luxemburgo"
+  ],
+  "frutas": [
+    "maracuyá", "guayaba", "carambola", "rambután", "pomelo", "pitahaya",
+    "chirimoya", "tamarindo", "mamoncillo", "zapote", "mangostán", "lichi",
+    "durian", "kiwi", "papaya", "granadilla", "níspero", "caqui", "anon", 
+    "frambuesa", "grosella"
+  ],
+  "tecnologia": [
+    "teclado", "monitor", "servidor", "algoritmo", "ciberseguridad", "compilador",
+    "procesador", "raspberry", "bluetooth", "javascript", "python", "blockchain",
+    "inteligencia", "realidad", "criptomoneda", "firewall", "navegador", "quantum",
+    "microcontrolador", "linux", "fibraoptica"
+  ],
+  "deportes": [
+    "baloncesto", "balonmano", "ciclismo", "natación", "atletismo", "esgrima",
+    "halterofilia", "waterpolo", "taekwondo", "badminton", "fútbol", "voleibol",
+    "gimnasia", "esquí", "snowboard", "karate", "judo", "tenis", "squash", "rugby",
+    "paddle", "escalada"
+  ],
+  "profesiones": [
+    "arquitecto", "ingeniero", "programador", "astronauta", "bombero", "cirujano",
+    "detective", "electricista", "farmacéutico", "geólogo", "historiador", "juez",
+    "meteorólogo", "neurocirujano", "odontólogo", "paleontólogo", "químico",
+    "psicólogo", "traductor", "veterinario"
+  ],
+  "colores": [
+    "turquesa", "fucsia", "lavanda", "magenta", "celeste", "bermellón",
+    "añil", "carmesí", "índigo", "ocre", "sepia", "cobalto", "esmeralda",
+    "amaranto", "zafiro", "terracota"
+  ],
+  "instrumentos": [
+    "guitarra", "trompeta", "xilófono", "acordeón", "saxofón", "violonchelo",
+    "batería", "flauta", "piano", "ukelele", "marimba", "bandoneón", "arpa",
+    "clarinete", "contrabajo", "armónica"
+  ],
+  "verduras": [
+    "alcachofa", "berenjena", "brócoli", "calabacín", "espárrago", "champiñón",
+    "coliflor", "pepino", "rábano", "remolacha", "zanahoria", "apio", "puerro"
+  ],
+  "vehiculos": [
+    "motocicleta", "helicóptero", "submarino", "tranvía", "bicicleta", "autobús",
+    "camioneta", "velero", "monopatín", "patineta", "globo", "cohete"
+  ],
+  "peliculas": [
+    "inception", "avatar", "titanic", "gladiador", "interstellar", "matrix",
+    "parasite", "joker", "frozen", "encanto", "coco", "up", "ratatouille"
+  ],
+  "cuerpo": [
+    "esternocleidomastoideo", "otorrinolaringólogo", "clavícula", "omóplato",
+    "fémur", "tibia", "peroné", "mandíbula", "húmero", "rótula", "columna"
+  ],
+  "comida": [
+    "paella", "tortilla", "empanada", "arepa", "ceviche", "tacos", "sushi",
+    "pizza", "hamburguesa", "lasaña", "croissant", "falafel", "kebab"
+  ]
+}
